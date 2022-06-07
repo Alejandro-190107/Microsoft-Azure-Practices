@@ -45,6 +45,6 @@ Posterior a seleccionar los datos, cambiaremos el tamaño a un plan de tarifa gr
 
 ![Img 7](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C7.png)
 
-≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
 ![Img 8](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C8.png)
