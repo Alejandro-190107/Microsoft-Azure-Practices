@@ -19,32 +19,32 @@ Implementación De Un **App Service** En Microsoft Azure.
 
 Posterior a seleccionar los datos, cambiaremos el tamaño a un plan de tarifa gratis.
 
-![Img 1](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C1.png)
+![Img 1](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/1.png)
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
-![Img 2](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C2.png)
+![Img 2](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/2.png)
 
 3.- Posterior a los cambios daremos clic en **Revisar Y Crear**, una vez verificado todo procedemos a dar clic en **Crear**, y esperamos a que se genere el recurso. 
 
-![Img 3](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C3.png)
+![Img 3](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/3.png)
 
 4.- Una vez creado el recurso, nos dirigimos a el y nos iremos al apartado de **Centro De Implementación** y configuramos todos los datos para conectarnos a nuestro repositorio de GitHub dónde tenemos cargada la página web. 
 
-![Img 4](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C4.png)
+![Img 4](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/4.png)
 
 4.- Al conectarnos a GitHub a traves de Microsft Azure nuestra **App Service** estara lista, así que procedmos a ir a la url que se genero en el recurso.
 
-![Img 5](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C5.png)
+![Img 5](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/5.png)
 
 5.- El resultado final de la implemetación del **App Service** es el siguiente:
 
-![Img 6](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C6.png)
+![Img 6](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/6.png)
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
-![Img 7](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C7.png)
+![Img 7](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/7.png)
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
-![Img 8](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/App-Service%5Cimg%5C8.png)
+![Img 8](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/App-Service/img/8.png)
