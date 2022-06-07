@@ -1,7 +1,7 @@
 # Sesión  4 - Practica 2.
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 
-Implementaciòn De Un **App Service Con WordPress** En Microsoft Azure. 
+Implementaciòn De  **Máquina Virtual** En Microsoft Azure. 
 
 ![Logo De Microsft Azure](https://github.com/Alejandro-190107/Microsoft-Azure-Practices/blob/main/Creation-Machine-Virtual/img/logo-MA.png)
 
