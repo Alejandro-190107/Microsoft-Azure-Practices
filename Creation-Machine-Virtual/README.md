@@ -34,4 +34,3 @@ Implementaciòn De  **Máquina Virtual** En Microsoft Azure.
 
 6.- Vamos a crear otra **Máquina Virtual ** replicando los pasos anteriores hasta obtener lo mismo hasta el paso Nº 5.
 
-7.-
